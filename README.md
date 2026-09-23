@@ -26,6 +26,13 @@ In today's fast-paced world, accessing reliable healthcare shouldn't be a strugg
   <img src="mediotic_1.png" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
 <img src="mediotic_2.png" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
 <img src="mediotic_3.png" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
+  <img src="mediotic_4.png" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
+<img src="mediotic_5.png" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
+<img src="mediotic_6.png" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
+  <img src="mediotic_7.png" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
+<img src="mediotic_8.png" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
+<img src="mediotic_9.png" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
+  <img src="mediotic_10.png" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
   <br/>
   <!-- Full Page Details Screenshot -->
   <img src="1001023939.jpg" alt="Mediotic Services and Offers" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1);">
