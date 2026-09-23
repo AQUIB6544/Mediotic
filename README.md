@@ -144,7 +144,7 @@ This repository showcases a commercial-grade frontend architecture. The source c
   <a href="mailto:mohdaquib195@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=557A46" alt="Email"/>
   </a>
-  <a href="https://github.com/Aquib195">
+  <a href="https://github.com/AQUIB6544">
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=557A46" alt="GitHub"/>
   </a>
 </div>
