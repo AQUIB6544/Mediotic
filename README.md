@@ -95,40 +95,6 @@ This repository showcases a commercial-grade frontend architecture. The source c
 <br/>
 <br/>
 
-<!-- Premium Green Divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=557A46&height=2" width="80%"/>
-</div>
-
-<br/>
-
-<!-- Contact Section -->
-<div align="center">
-  <h2 style="color: #557A46;">Lead Developer & Architect 👨‍💻</h2>
-  <p>Developed by <b>Mohd Aquib</b>. Available for freelance, contract, and full-time professional web development projects.</p>
-  
-  <a href="mailto:mohdaquib195@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=557A46" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=557A46" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Aquib6544">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=557A46" alt="GitHub"/>
-  </a>
-</div>
-
-<!-- Premium Waving Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=557A46&height=120&section=footer"/>
-</div>
-  <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat-square&logo=css3&logoColor=557A46" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=557A46" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/UI/UX_Design-ffffff?style=flat-square&logo=figma&logoColor=557A46" alt="UI/UX"/>
-</div>
-
-<hr/>
-
 ## ⚠️ Proprietary & Commercial Use Policy
 
 **© 2026 Mediotic / Mohd Aquib. All Rights Reserved.**
@@ -148,7 +114,7 @@ This repository showcases a commercial-grade frontend architecture. The source c
 <!-- Contact Section -->
 <div align="center">
   <h2 style="color: #557A46;">Project Developer 👨‍💻</h2>
-  <p>Developed by <b>Mohd Aquib</b>. Open for professional web development projects.</p>
+  <p>Developed by <b>Mohammad Aquib</b>. Open for professional web development projects.</p>
   
   <a href="mailto:mohdaquib195@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=557A46" alt="Email"/>
