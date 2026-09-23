@@ -23,7 +23,9 @@ In today's fast-paced world, accessing reliable healthcare shouldn't be a strugg
 
 <div align="center">
   <!-- Top Hero Section Screenshot -->
-  <img src="1001023937.jpg" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
+  <img src="IMG-1.jpg" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
+<img src="IMG-2.jpg" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
+<img src="IMG-3.jpg" alt="Mediotic Hero Section" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1); margin-bottom: 20px;">
   <br/>
   <!-- Full Page Details Screenshot -->
   <img src="1001023939.jpg" alt="Mediotic Services and Offers" width="700" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0px 5px 15px rgba(0,0,0,0.1);">
