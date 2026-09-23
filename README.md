@@ -104,7 +104,7 @@ This repository showcases a commercial-grade frontend architecture. The source c
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=557A46" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Aquib195">
+  <a href="https://github.com/Aquib6544">
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=557A46" alt="GitHub"/>
   </a>
 </div>
